@@ -1,11 +1,11 @@
 <idea-plugin>
     <id>org.example.java-intellij-plugin-sandbox</id>
     <name>Plugin display name here</name>
-    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+    <vendor email="kofujiw@gmail.com" url="https://github.com/keyno63/java-intellij-plugin-sandbox">java-intellij-plugin-sandbox</vendor>
 
     <description><![CDATA[
-    Enter short description for your plugin here.<br>
-    <em>most HTML tags may be used</em>
+    sandbox for intellij plugin.<br>
+    <em>sample code</em>
     ]]></description>
 
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
