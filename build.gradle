@@ -3,6 +3,8 @@ plugins {
     id 'org.jetbrains.intellij' version '0.7.3'
 }
 
+sourceCompatibility = 11
+
 group 'org.example'
 version '1.0-SNAPSHOT'
 
